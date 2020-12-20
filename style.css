@@ -1,0 +1,19 @@
+h1{ color : rgb(107, 51, 51)}
+/*{border:solid}*/
+.heading{
+    background-color: orangered;
+    display:flex;
+    justify-content: center;
+}
+.sub1{
+    background-color:darkorange;
+    display:flex;
+    justify-content: left;
+    flex-wrap: wrap;
+}
+.sub2{
+    background-color:goldenrod;
+    display:flex;
+    justify-content: left;
+    flex-wrap: wrap;
+}
